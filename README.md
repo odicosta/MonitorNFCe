@@ -1,2 +1,2 @@
 # MonitorNFCe
-Aplicativo Web para Monitorar as NFCe Emitidas por CNPJ as
+Aplicativo Web  para  Monitorar  NFCE  Emitidas  por CNPJ
